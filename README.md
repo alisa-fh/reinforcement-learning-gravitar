@@ -9,7 +9,7 @@ For this project I have developed further a basic Advantage Actor Critic reinfor
 If it means anything... it played better than I did.
 See the [Google Colab](<./A2C_Atari.ipynb>) file for the code.
 
-Download the video [here](./openaigym.video.0.4017.video000380-950.mp4) for the agent's best performance.
+Download the video [here](./score-1110.mp4) for the agent's best performance, achieving a score of 1100.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/44368206/160682735-9eeccb75-4229-4d88-ab1a-ff6e4d7f12f5.gif" width=400>
